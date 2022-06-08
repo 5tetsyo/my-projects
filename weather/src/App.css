@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  height: 100vh;
+  width: 100%;
+}
+.WeatherPage {
+  height: 100%;
+}
+.App {
+  overflow-x: hidden;
+  height: 100%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  color: white;
+}
