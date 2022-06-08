@@ -1,5 +1,5 @@
 # My ReactJS projects
-f-pp - Post block web-site
+f-pp - Post blog web-site
 #
 weather - weather web-site
 #
