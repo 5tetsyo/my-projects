@@ -1,0 +1,24 @@
+.todo_grid {
+    margin: 5% 10%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+.todo_block {
+    width: 300px;
+    height: fit-content;
+    min-height: 100px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding-top: 15px;
+    border: 2px solid black;
+    font-size: 22px;
+}
+.toDoItem {
+    font-size: 16px;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid rgb(65, 65, 65);
+    border-radius: 10px;
+    cursor: grab;
+}

@@ -1,0 +1,9 @@
+.change {
+    background: linear-gradient(#c4c440, #e76f6f);
+    border-radius: 50%;
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(65, 65, 65);
+    cursor: pointer;
+}
