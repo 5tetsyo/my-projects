@@ -1,0 +1,7 @@
+.MySel {
+        border: 2px solid teal;
+        color: teal;
+        width: 150px;
+        height: 30px; 
+        text-align: center;
+}
