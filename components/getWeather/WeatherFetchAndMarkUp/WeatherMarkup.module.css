@@ -1,0 +1,18 @@
+.weatherBlock {
+    text-align: center;
+    max-height: 350px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 60%;
+}
+.infoBlock {
+    font-size: 1.5em;
+    color: white;
+    margin: 5%;
+    word-wrap: break-word;
+    max-width: 400px;
+}
